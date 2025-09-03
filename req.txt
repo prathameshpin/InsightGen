@@ -1,0 +1,6 @@
+streamlit == 1.49.1
+dotenv == 0.9.9
+langchain_community == 0.3.29
+langchain_google_genai == 2.1.10
+unstructured == 0.18.14
+faiss_cpu == 1.12.0
